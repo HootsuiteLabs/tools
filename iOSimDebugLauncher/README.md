@@ -14,7 +14,3 @@ A productivity tool to launch Safari debugger that is hooked to an iOS simulator
 - Command+Space on your Mac.
 - Enter `Script Editor` and launch it.
 - Now you can edit the app's script located at `iOS\ Simulator\ Debug\ Launcher.app/Contents/Resources/Scripts/main.scpt`.
-
-# Snapshot
-
-![iOSimDebugLauncher in action](https://github.hootops.com/Labs/dev-tools/blob/master/apps/iOSimDebugLauncher/iOSimDebugLauncher.jpg)
